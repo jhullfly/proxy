@@ -1,0 +1,19 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": "5.8.0"
+  },
+  "dependencies": {
+    "foreman": "1.4.1",
+    "http-proxy": "1.13.2"
+  },
+  "devDependencies": {}
+}
